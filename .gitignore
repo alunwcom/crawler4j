@@ -1,7 +1,6 @@
-target/
-.idea/*
-*.iml
-.settings/*
-javadocs/*
 .classpath
 .project
+.settings/
+.gradle/
+/build/
+/logs/
